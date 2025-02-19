@@ -5,3 +5,16 @@ i designed a fast food website with responsive
 # Home Page Hero Section --
 
 ![alt text](https://github.com/MuhammadShoaib495/Reactjs-Food-Web/blob/a9c5ae3a9a7fe7c706a9cb51e775fda2659ea9b3/html.PNG)
+
+
+# Listings of Menus
+
+![listingMenus](https://github.com/MuhammadShoaib495/Reactjs-Food-Web/blob/main/html2.PNG)
+
+
+# Ads Banners
+![adsbanner](https://github.com/MuhammadShoaib495/Reactjs-Food-Web/blob/main/html1.PNG)
+
+# Mobile App Downloading Section
+![mobileApp](https://github.com/MuhammadShoaib495/Reactjs-Food-Web/blob/main/html3.PNG)
+
