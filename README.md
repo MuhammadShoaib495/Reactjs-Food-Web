@@ -1,6 +1,5 @@
 # Fast Food Website Design with help of Reactjs, Html,CSS and Bootstrap - Router
 
-i designed a fast food website with responsive 
 
 # Home Page Hero Section --
 
