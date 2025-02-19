@@ -1,6 +1,7 @@
 # Fast Food Website Design with help of Reactjs, Html,CSS and Bootstrap - Router
 
 Cart Checkout! hover Functionality and Parallex... Bootstrap icons and CSS
+Sticky Functionality, Scroll bars design and more advance Ui with Responsive layout
 
 
 # Home Page Hero Section --
